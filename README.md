@@ -43,17 +43,17 @@ I’m a passionate Full Stack Web Developer with a strong foundation in Machine 
 
 ## 🌟 Projects
 Here are some of my recent projects that showcase my skills and interests:
-- PC-CDDM: A project focused on [brief description of what it does and its significance].
-- PIM1-Kinase-Inhibitor-QSAR: Developed a quantitative structure-activity relationship model to predict the efficacy of kinase inhibitors, enhancing drug discovery processes.
-- SBA-DEG-Analysis: A comprehensive analysis tool for differentially expressed genes, aimed at providing insights into gene expression data.
-- mylinx: A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
-- chembl-explorer: A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
+- **PC-CDDM:** Official codebase for my pancreatic cancer combinational drugs discovery study
+- **PIM1-Kinase-Inhibitor-QSAR:** Machine Learning QSAR Study for Investigating the Characteristics of a Potential Inhibitory Molecule for PIM-1 Kinase which is involved in various types of cancer
+- **SBA-DEG-Analysis:** Identification of novel hub genes for Small Bowel Adenocarcinoma with integrated and non-integrated bioinformatics tools
+- **Mylinx:** A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
+- **ChEMBL-Explorer:** A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
   
 ## 🛠️ Skills
-Bioinformatics: Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, CHEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG)
-Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, TensorFlow
-Languages & Frameworks: JavaScript, Python, PHP, R, Laravel, Vue.js, HTML, CSS
-Academic: LaTeX, Zotero, EndNote, Overleaf
+- **Bioinformatics:** Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, ChEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG), DrugBank
+- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, TensorFlow, R Studio, Jupyter Notebook, Conda/Anaconda
+- **Languages & Frameworks:** JavaScript, Python, PHP, R, Laravel, Vue.js, HTML, CSS
+- **Academic:** LaTeX, Zotero, EndNote, Overleaf
 
 
 ## 📫 Get in Touch
