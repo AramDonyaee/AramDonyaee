@@ -44,10 +44,10 @@ I’m a passionate Full Stack Web Developer with a strong foundation in Machine 
 ## 🌟 Projects
 Here are some of my recent projects that showcase my skills and interests:
 - [**PC-CDDM:**](https://github.com/AramDonyaee/PC-CDDM) Official codebase for my pancreatic cancer combinational drugs discovery study
-- **PIM1-Kinase-Inhibitor-QSAR:** Machine Learning QSAR Study for Investigating the Characteristics of a Potential Inhibitory Molecule for PIM-1 Kinase which is involved in various types of cancer
-- **SBA-DEG-Analysis:** Identification of novel hub genes for Small Bowel Adenocarcinoma with integrated and non-integrated bioinformatics tools
-- **Mylinx:** A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
-- **ChEMBL-Explorer:** A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
+- [**PIM1-Kinase-Inhibitor-QSAR:**](https://github.com/AramDonyaee/PIM1-Kinase-Inhibitor-QSAR) Machine Learning QSAR Study for Investigating the Characteristics of a Potential Inhibitory Molecule for PIM-1 Kinase which is involved in various types of cancer
+- [**SBA-DEG-Analysis:**](https://github.com/AramDonyaee/SBA-DEG-Analysis) Identification of novel hub genes for Small Bowel Adenocarcinoma with integrated and non-integrated bioinformatics tools
+- [**Mylinx:**](https://github.com/AramDonyaee/mylinx) A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
+- [**ChEMBL-Explorer:**](https://github.com/AramDonyaee/ChEMBL-Explorer) A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
   
 ## 🛠️ Skills
 - **Bioinformatics:** Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, ChEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG), DrugBank
