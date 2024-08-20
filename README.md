@@ -50,7 +50,7 @@ Here are some of my recent projects that showcase my skills and interests:
 - [**ChEMBL-Explorer:**](https://github.com/AramDonyaee/ChEMBL-Explorer) A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
   
 ## 🛠️ Skills
-- **Bioinformatics:** Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, ChEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG), DrugBank
+- **Bioinformatics:** Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, ChEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG), DrugBank, PadelPy, PubChemPy, RDKIT
 - **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, TensorFlow, R Studio, Jupyter Notebook, Conda/Anaconda
 - **Languages & Frameworks:** JavaScript, Python, PHP, R, Laravel, Vue.js, HTML, CSS
 - **Academic:** LaTeX, Zotero, EndNote, Overleaf
