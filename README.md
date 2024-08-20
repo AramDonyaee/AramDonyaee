@@ -51,9 +51,10 @@ Here are some of my recent projects that showcase my skills and interests:
   
 ## 🛠️ Skills
 - **Bioinformatics:** Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, ChEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG), DrugBank, PadelPy, PubChemPy, RDKIT
-- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, TensorFlow, R Studio, Jupyter Notebook, Conda/Anaconda
+- **Machine Learning & Data Science:** Scikit-learn, Pandas, NumPy, TensorFlow, R Studio, Matplotlib, Jupyter Notebook, Conda/Anaconda
 - **Languages & Frameworks:** JavaScript, Python, PHP, R, Laravel, Vue.js, HTML, CSS
 - **Academic:** LaTeX, Zotero, EndNote, Overleaf
+- **Other:** Linux, Docker, CI/CD, Git
 
 
 ## 📫 Get in Touch
