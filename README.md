@@ -22,6 +22,12 @@ I’m a passionate Full Stack Web Developer with a strong foundation in Machine 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="30" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" height="30" />
 
 
 </div>
@@ -35,19 +41,22 @@ I’m a passionate Full Stack Web Developer with a strong foundation in Machine 
 
 ###
 
-🌟 Projects
+## 🌟 Projects
 Here are some of my recent projects that showcase my skills and interests:
-PC-CDDM: A project focused on [brief description of what it does and its significance].
-PIM1-Kinase-Inhibitor-QSAR: Developed a quantitative structure-activity relationship model to predict the efficacy of kinase inhibitors, enhancing drug discovery processes.
-SBA-DEG-Analysis: A comprehensive analysis tool for differentially expressed genes, aimed at providing insights into gene expression data.
-mylinx: A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
-chembl-explorer: A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
-🛠️ Skills
-Languages & Frameworks: JavaScript, Python, Laravel, Vue.js, HTML, CSS
+- PC-CDDM: A project focused on [brief description of what it does and its significance].
+- PIM1-Kinase-Inhibitor-QSAR: Developed a quantitative structure-activity relationship model to predict the efficacy of kinase inhibitors, enhancing drug discovery processes.
+- SBA-DEG-Analysis: A comprehensive analysis tool for differentially expressed genes, aimed at providing insights into gene expression data.
+- mylinx: A multi-features link-in-bio generator built with Laravel and Vue.js, designed to help users optimize their online presence.
+- chembl-explorer: A web application for downloading bioactivity data from the ChEMBL database, created using Python and Streamlit.
+  
+## 🛠️ Skills
+Bioinformatics: Differentially Gene Expression Analysis, microarray analysis, ML-based QSAR, GEO, CHEMBL, STRINGS Database, Cytoscape, NetworkAnalyst, Enrichment Analysis (GO, KEGG)
 Machine Learning & Data Science: Scikit-learn, Pandas, NumPy, TensorFlow
-Bioinformatics: Data analysis, predictive modeling, and bioinformatics tools
-Version Control: Git, GitHub
-📫 Get in Touch
+Languages & Frameworks: JavaScript, Python, PHP, R, Laravel, Vue.js, HTML, CSS
+Academic: LaTeX, Zotero, EndNote, Overleaf
+
+
+## 📫 Get in Touch
 I’m always excited to connect with fellow developers, researchers, and potential collaborators! Feel free to reach out to me via:
-Email: your.email@example.com
-LinkedIn: Your LinkedIn Profile
+Email: aramdonyaeeofficial@gmail.com
+LinkedIn: (https://www.linkedin.com/in/aram-donyaee)
