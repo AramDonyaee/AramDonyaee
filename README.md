@@ -3,7 +3,7 @@
 I’m a passionate Full Stack Web Developer with a strong foundation in Machine Learning and Data Science. I thrive on solving complex problems and building innovative solutions that make a difference. My enthusiasm for bioinformatics drives my exploration in this fascinating field, where I aim to combine technology with biological data to uncover new insights.
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="30" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
